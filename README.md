@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sai
 
-<!--
-**Aham-Sai/Aham-Sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/duolingo-dark.svg?v=1">
+  <img alt="Duolingo streak and total XP, refreshed daily by a scheduled job"
+       src="assets/duolingo.svg?v=1">
+</picture>
 
-Here are some ideas to get you started:
+<sub>
+Regenerated twice daily by <a href=".github/workflows/update-badge.yml">a GitHub
+Actions workflow</a> that reads Duolingo's unauthenticated profile endpoint.
+An amber dot means the last fetch failed and the badge is showing the last known
+good values rather than a zero.
+</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Keep the ?v=1 suffixes. The generator rewrites them on every real change so
+     GitHub's image proxy serves the new SVG instead of a cached one. -->
