@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="312" height="20" role="img" aria-label="duolingo: German  153 day streak  5,277 XP">
+  <title>duolingo: German  153 day streak  5,277 XP</title>
+  <linearGradient id="gloss" x2="0" y2="100%">
+    <stop offset="0" stop-color="#fff" stop-opacity=".08"/>
+    <stop offset="1" stop-opacity=".08"/>
+  </linearGradient>
+  <clipPath id="round"><rect width="312" height="20" rx="4"/></clipPath>
+  <g clip-path="url(#round)">
+    <rect width="74" height="20" fill="#3c3c3c"/>
+    <rect x="74" width="238" height="20" fill="#58cc02"/>
+    <rect width="312" height="20" fill="url(#gloss)"/>
+  </g>
+  <g fill="#ffffff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11" text-anchor="middle">
+    <text x="37" y="14">duolingo</text>
+    <text x="193" y="14" font-weight="bold">German  153 day streak  5,277 XP</text>
+  </g>
+  
+</svg>

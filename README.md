@@ -1,9 +1,9 @@
 # Hi, I'm Sai
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/duolingo-dark.svg?v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/duolingo-dark.svg?v=1787961495">
   <img alt="Duolingo streak and total XP, refreshed daily by a scheduled job"
-       src="assets/duolingo.svg?v=1">
+       src="assets/duolingo.svg?v=1787961495">
 </picture>
 
 <sub>
