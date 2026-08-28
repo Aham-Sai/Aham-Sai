@@ -37,7 +37,6 @@ DUOLINGO_USERNAME = "Aham_Sai_Chary"  # <- your public Duolingo handle
 ENDPOINT = (
     "https://www.duolingo.com/2017-06-30/users"
     f"?username={DUOLINGO_USERNAME}"
-    "&fields=streak,totalXp,learningLanguage"
 )
 
 # Duolingo rejects requests without a browser-ish User-Agent.
