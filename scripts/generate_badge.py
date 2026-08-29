@@ -182,9 +182,6 @@ def render_banner(values: dict, stale: bool) -> str:
     stripes = FLAGS.get(code, DEFAULT_FLAG)
 
     streak_text = f"{streak:,}"
-    # The big number is variable width, so place "days" relative to it.
-    digit_advance = 45
-    days_x = 268 + len(streak_text) * digit_advance + 12
 
     subtitle = escape(f"{language}  ·  {total_xp:,} XP")
     alt = f"{streak} day {language} streak, {total_xp:,} XP total"
@@ -258,8 +255,8 @@ viewBox="0 0 {WIDTH} {HEIGHT}" role="img" aria-label="{escape(alt)}">
     <g font-family="DejaVu Sans, Verdana, Geneva, sans-serif">
       <text x="270" y="86" fill="#9fe870" font-size="19" letter-spacing="4.5"
             font-weight="bold">CURRENT STREAK</text>
-      <text x="268" y="162" fill="#ffffff" font-size="76" font-weight="bold">{streak_text}</text>
-      <text x="{days_x}" y="162" fill="#d8f5c4" font-size="30" font-weight="bold">days</text>
+      <text x="268" y="162" fill="#ffffff" font-size="76" font-weight="bold">{streak_text}<tspan
+            fill="#d8f5c4" font-size="30" font-weight="bold" dx="18">days</tspan></text>
       <rect x="270" y="182" width="300" height="3" fill="url(#rule)" rx="1.5"/>
       <text x="270" y="214" fill="#8fd96a" font-size="19">{subtitle}</text>
     </g>
