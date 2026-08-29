@@ -9,8 +9,8 @@
 <sub>
 Regenerated twice daily by <a href=".github/workflows/update-badge.yml">a GitHub
 Actions workflow</a> that reads Duolingo's unauthenticated profile endpoint.
-An amber dot means the last fetch failed and the badge is showing the last known
-good values rather than a zero.
+Ich spreche ein bisschen Deutsch.” 🇩🇪
+The streak continues until “ein bisschen” becomes “fließend.”.
 </sub>
 
 ---
