@@ -49,8 +49,8 @@
     <g font-family="DejaVu Sans, Verdana, Geneva, sans-serif">
       <text x="270" y="86" fill="#9fe870" font-size="19" letter-spacing="4.5"
             font-weight="bold">CURRENT STREAK</text>
-      <text x="268" y="162" fill="#ffffff" font-size="76" font-weight="bold">153</text>
-      <text x="415" y="162" fill="#d8f5c4" font-size="30" font-weight="bold">days</text>
+      <text x="268" y="162" fill="#ffffff" font-size="76" font-weight="bold">153<tspan
+            fill="#d8f5c4" font-size="30" font-weight="bold" dx="18">days</tspan></text>
       <rect x="270" y="182" width="300" height="3" fill="url(#rule)" rx="1.5"/>
       <text x="270" y="214" fill="#8fd96a" font-size="19">German  ·  5,277 XP</text>
     </g>
