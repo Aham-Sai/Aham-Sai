@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="159 day German streak, 5,455 XP total">
-  <title>159 day German streak, 5,455 XP total</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="160 day German streak, 5,493 XP total">
+  <title>160 day German streak, 5,493 XP total</title>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -49,10 +49,10 @@
     <g font-family="DejaVu Sans, Verdana, Geneva, sans-serif">
       <text x="270" y="86" fill="#9fe870" font-size="19" letter-spacing="4.5"
             font-weight="bold">CURRENT STREAK</text>
-      <text x="268" y="162" fill="#ffffff" font-size="76" font-weight="bold">159<tspan
+      <text x="268" y="162" fill="#ffffff" font-size="76" font-weight="bold">160<tspan
             fill="#d8f5c4" font-size="30" font-weight="bold" dx="18">days</tspan></text>
       <rect x="270" y="182" width="300" height="3" fill="url(#rule)" rx="1.5"/>
-      <text x="270" y="214" fill="#8fd96a" font-size="19">German  ·  5,455 XP</text>
+      <text x="270" y="214" fill="#8fd96a" font-size="19">German  ·  5,493 XP</text>
     </g>
 
     <g transform="translate(838 0)"><rect x="0" y="0.0" width="62" height="80.0" fill="#000000" opacity="0.7"/><rect x="0" y="80.0" width="62" height="80.0" fill="#dd0000" opacity="0.7"/><rect x="0" y="160.0" width="62" height="80.0" fill="#ffce00" opacity="0.7"/></g>
