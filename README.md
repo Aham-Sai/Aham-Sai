@@ -1,6 +1,6 @@
 # Hi, I'm Sai
 
-![Duolingo streak, regenerated twice daily by a scheduled job](assets/banner.svg?v=1795449278)
+![Duolingo streak, regenerated twice daily by a scheduled job](assets/banner.svg?v=1795569894)
 
 Ich spreche ein bisschen Deutsch. The streak continues until "ein bisschen"
 becomes "fließend."
